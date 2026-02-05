@@ -1,0 +1,9 @@
+# 忽略 TimeWindowIndex 目录中的所有内容
+/*
+
+# 但保留 TimeWindowIndex 中的某些文件或目录
+!TimeWindowIndex/include
+!TimeWindowIndex/CMakeLists.txt
+!TimeWindowIndex/README.md
+!TimeWindowIndex/tests/test_search.cpp
+!TimeWindowIndex/tests/CMakeLists.txt
